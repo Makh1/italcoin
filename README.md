@@ -1,4 +1,4 @@
-italcoin integration/staging tree
+ITAL coin integration/staging tree
 ================================
 
 http://italcoin.ital-lion.org
