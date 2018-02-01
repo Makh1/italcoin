@@ -7,10 +7,10 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 ITAL LION association
 
-What is italcoin?
+What is ITAL coin?
 ----------------
 
-italcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ITAL coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
