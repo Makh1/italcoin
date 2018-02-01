@@ -1,7 +1,7 @@
 italcoin integration/staging tree
 ================================
 
-http://www.ital-lion.org
+http://italcoin.ital-lion.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -18,7 +18,7 @@ italcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the italcoin client sofware, see http://www.ital-lion.org.
+the italcoin client sofware, see http://italcoin.ital-lion.org.
 
 License
 -------
@@ -44,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/italcoin-project/italcoin/tags) are created
+completely stable. [Tags](https://github.com/Makh1/italcoin/tags) are created
 regularly to indicate new official, stable release versions of italcoin.
 
 Testing
