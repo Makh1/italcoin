@@ -1,7 +1,7 @@
 italcoin integration/staging tree
 ================================
 
-http://italcoin.ital-lion.org
+http://italcoin.ital-lion.org (to be confirm)
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -11,14 +11,14 @@ What is italcoin?
 ----------------
 
 italcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 5 minute block targets
+ - 1 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
- - 40 coins per block
- - 2016 blocks to retarget difficulty
+ - ~444 million total coins
+ - 100 coins per block
+ - ~2000 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the italcoin client sofware, see http://italcoin.ital-lion.org.
+the italcoin client sofware, see http://ital-lion.org
 
 License
 -------
