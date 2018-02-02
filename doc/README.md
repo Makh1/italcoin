@@ -1,4 +1,4 @@
-italcoin 1.0.x ALPHA
+ITAL coin 1.0.x ALPHA
 ====================
 
 Copyright (c) 2009-2018 Bitcoin Developers
