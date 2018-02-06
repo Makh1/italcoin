@@ -1,5 +1,5 @@
 ---
-name: "italcoin"
+name: "ITALcoin"
 suites:
 - "precise"
 architectures:
@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/italcoin-project/italcoin.git"
+- "url": "https://github.com/Makh1/italcoin.git"
   "dir": "italcoin"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"

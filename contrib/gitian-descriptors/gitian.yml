@@ -1,5 +1,5 @@
 ---
-name: "italcoin"
+name: "ITALcoin"
 suites:
 - "lucid"
 architectures:
@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/italcoin-project/italcoin.git"
+- "url": "https://github.com/Makh1/italcoin.git"
   "dir": "italcoin"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"
