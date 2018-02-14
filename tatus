@@ -1,0 +1,21 @@
+[1mdiff --git a/share/pixmaps/bitcoin128.png b/share/pixmaps/bitcoin128.png[m
+[1mindex 6e7be7f..d4ada3d 100644[m
+Binary files a/share/pixmaps/bitcoin128.png and b/share/pixmaps/bitcoin128.png differ
+[1mdiff --git a/share/pixmaps/bitcoin16.png b/share/pixmaps/bitcoin16.png[m
+[1mindex eb24255..4b70916 100644[m
+Binary files a/share/pixmaps/bitcoin16.png and b/share/pixmaps/bitcoin16.png differ
+[1mdiff --git a/share/pixmaps/bitcoin256.png b/share/pixmaps/bitcoin256.png[m
+[1mindex fcc17f6..8496bb2 100644[m
+Binary files a/share/pixmaps/bitcoin256.png and b/share/pixmaps/bitcoin256.png differ
+[1mdiff --git a/share/pixmaps/bitcoin32.png b/share/pixmaps/bitcoin32.png[m
+[1mindex edb0e22..40e63be 100644[m
+Binary files a/share/pixmaps/bitcoin32.png and b/share/pixmaps/bitcoin32.png differ
+[1mdiff --git a/share/pixmaps/bitcoin64.png b/share/pixmaps/bitcoin64.png[m
+[1mindex 7698e80..026154b 100644[m
+Binary files a/share/pixmaps/bitcoin64.png and b/share/pixmaps/bitcoin64.png differ
+[1mdiff --git a/share/pixmaps/nsis-header.bmp b/share/pixmaps/nsis-header.bmp[m
+[1mindex 9204d36..18ff8b4 100644[m
+Binary files a/share/pixmaps/nsis-header.bmp and b/share/pixmaps/nsis-header.bmp differ
+[1mdiff --git a/share/pixmaps/nsis-wizard.bmp b/share/pixmaps/nsis-wizard.bmp[m
+[1mindex d39ec03..d30a460 100644[m
+Binary files a/share/pixmaps/nsis-wizard.bmp and b/share/pixmaps/nsis-wizard.bmp differ
