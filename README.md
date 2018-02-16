@@ -1,29 +1,30 @@
-ITAL coin integration/staging tree
+italcoin integration/staging tree
 ================================
 
-http://xxxxxx.ital-lion.org (to be confirm)
+http://www.italcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 ITAL LION association
+Copyright (c) 2011-2014 italcoin Developers
 
-What is ITAL coin?
+What is italcoin?
 ----------------
 
-ITAL coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 1 minute block targets
+italcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~444 million total coins
- - 100 coins per block
- - ~2000 blocks to retarget difficulty
+ - ~84 million total coins
+
+The rest is the same as Bitcoin.
+ - 50 coins per block
+ - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the ITAL coin client sofware, see http://ital-lion.org
+the italcoin client sofware, see http://www.italcoin.org.
 
 License
 -------
 
-ITAL coin is released under the terms of the MIT license. See `COPYING` for more
+italcoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -32,7 +33,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the ITAL coin
+If it is a simple/trivial/non-controversial change, then one of the italcoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -44,8 +45,8 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/Makh1/italcoin/tags) are created
-regularly to indicate new official, stable release versions of ITAL coin.
+completely stable. [Tags](https://github.com/italcoin-project/italcoin/tags) are created
+regularly to indicate new official, stable release versions of italcoin.
 
 Testing
 -------
