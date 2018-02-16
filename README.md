@@ -1,4 +1,4 @@
-italcoin integration/staging tree
+ITAL coin integration/staging tree
 ================================
 
 http://www.ital-lion.org
@@ -7,16 +7,14 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 ITAL LION association
 
-What is italcoin?
+What is ITAL coin?
 ----------------
 
-italcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ITAL coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - 4 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
+ - ~444 million total coins
+ - 40 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
