@@ -1,8 +1,9 @@
-italcoin 0.8.x BETA
+ITAL coin 0.1.x ALPHA
 ====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 italcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2018 ITAL LION association
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -12,7 +13,7 @@ cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cry
 
 Intro
 ---------------------
-italcoin is a free open source peer-to-peer electronic cash system that is
+ITAL coin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -30,7 +31,7 @@ Unpack the files into a directory and run:
 - bin/64/italcoin-qt (GUI, 64-bit)
 - bin/64/italcoind (headless, 64-bit)
 
-See the documentation at the [italcoin Wiki](http://italcoin.info)
+See the documentation at the [italcoin Wiki](http://info.ital-lion.org)
 for help and more information.
 
 

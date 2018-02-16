@@ -1,7 +1,7 @@
 TOR SUPPORT IN BITCOIN
 ======================
 
-It is possible to run italcoin as a Tor hidden service, and connect to such services.
+It is possible to run ITAL coin as a Tor hidden service, and connect to such services.
 
 The following directions assume you have a Tor proxy running on port 9050. Many distributions
 default to having a SOCKS proxy listening on port 9050, but others may not.
@@ -10,10 +10,10 @@ https://www.torproject.org/docs/faq.html.en#TBBSocksPort for how to properly
 configure Tor.
 
 
-1. Run italcoin behind a Tor proxy
+1. Run ITAL coin behind a Tor proxy
 ---------------------------------
 
-The first step is running italcoin behind a Tor proxy. This will already make all
+The first step is running ITAL coin behind a Tor proxy. This will already make all
 outgoing connections be anonimized, but more is possible.
 
 -socks=5        SOCKS5 supports connecting-to-hostname, which can be used instead
@@ -55,7 +55,7 @@ config file):
 The directory can be different of course, but (both) port numbers should be equal to
 your italcoind's P2P listen port (2333 by default).
 
--externalip=X   You can tell italcoin about its publicly reachable address using
+-externalip=X   You can tell ITAL coin about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
                 configuration, you can find your onion address in
                 /var/lib/tor/italcoin-service/hostname. Onion addresses are given

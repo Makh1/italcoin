@@ -23,7 +23,7 @@ the italcoin client sofware, see http://www.ital-lion.org.
 License
 -------
 
-italcoin is released under the terms of the MIT license. See `COPYING` for more
+ITAL coin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
